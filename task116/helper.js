@@ -1,0 +1,1 @@
+export const strings = ['abc', 'zxc', 'qwe', 'qwezxc', 'js',];
